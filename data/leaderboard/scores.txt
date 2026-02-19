@@ -1,0 +1,2 @@
+Ahmet|50|13|PAYS|La Turquie|FACILE (16)
+Noa|57|16|PAYS|La France|FACILE (16)
