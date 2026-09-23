@@ -54,7 +54,7 @@ Le projet compte environ **4 500 lignes** de Processing, réparties en classes :
 
 | Fichier | Rôle |
 |---|---|
-| `Main.pde` | Point d'entrée, chargement des musiques |
+| `Memorizz.pde` | Point d'entrée, chargement des musiques |
 | `Page.pde` | Gestionnaire de navigation entre les écrans |
 | `Chargement.pde` | Écran de chargement |
 | `Acceuil.pde` | Page d'accueil |
@@ -75,7 +75,7 @@ Les ressources (images, sons, scores) sont dans le dossier `data/`.
 
 1. Installer [Processing 4](https://processing.org/download)
 2. Installer la librairie **Sound** : *Sketch > Import Library > Manage Libraries > Sound*
-3. Ouvrir `Memorizz/Main.pde` et cliquer sur **Run**
+3. Ouvrir `Memorizz.pde` et cliquer sur **Run**
 
 ---
 
